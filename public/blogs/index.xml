@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Ronny Munene</title>
+    <link>//localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on Ronny Munene</description>
+    <image>
+      <title>Ronny Munene</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Data Science</title>
+      <link>//localhost:1313/blogs/unraveling-the-power-of-datadata-101/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blogs/unraveling-the-power-of-datadata-101/</guid>
+      <description>&lt;h1 id=&#34;preview&#34;&gt;Preview&lt;/h1&gt;
+&lt;h2 id=&#34;unraveling-the-power-of-data-data-101&#34;&gt;Unraveling the Power of Data. (Data 101)&lt;/h2&gt;
+&lt;p&gt;Data science is an interdisciplinary field that transforms raw data into actionable insights, playing a crucial role in informed decision-making, predictive analytics, and enhancing customer understanding across various industries. It encompasses diverse career paths, including Data Analyst, Data Scientist, and Machine Learning Engineer, requiring a blend of technical skills like programming in Python and SQL, as well as soft skills such as critical thinking and effective communication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What happens when you type google.com in your browser and press Enter</title>
+      <link>//localhost:1313/blogs/unveiling-the-digital-symphony/</link>
+      <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
+      <guid>//localhost:1313/blogs/unveiling-the-digital-symphony/</guid>
+      <description>&lt;h1 id=&#34;preview&#34;&gt;Preview&lt;/h1&gt;
+&lt;h2 id=&#34;behind-the-scenes-of-your-simple-search-unveiling-the-digital-symphony&#34;&gt;Behind the Scenes of Your Simple Search: Unveiling the Digital Symphony&lt;/h2&gt;
+&lt;p&gt;Have you ever paused to consider the complex web of technologies that brings your favorite websites to life with just a click? In this captivating blog post, we take you on a thrilling journey through the intricate processes that occur when you type &amp;ldquo;google.com&amp;rdquo; into your browser and hit Enter. From the silent yet powerful DNS requests that translate user-friendly URLs into machine-readable IP addresses to the sophisticated load balancers that ensure seamless access even during peak traffic, every step is a testament to the ingenuity of modern internet infrastructure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
