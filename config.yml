@@ -21,8 +21,6 @@ params:
   description: "This is the website of Ronny Munene, some of you may know me as the **The Alpha Male**."
   keywords: [Blog, Portfolio, Data Science]
   author: Ronny Munene
-  # author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -48,7 +46,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
+    title: "Hello World! \U0001F44B"
     subtitle: "This is the website of **Ronny Munene**, some of you may know me as the **The Alpha Male**."
     imageUrl: "images/profile picture.png" 
     imageWidth: 120
@@ -62,14 +60,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome! \U0001F44B"
+    Title: "Hello World! \U0001F44B"
     Content: "This is the website of **Ronny Munene**, some of you may know me as the **The Alpha Male**."
   
-  # social:
-  #   - name: Twitter
-  #     url: https://twitter.com/ronnymunene4
-  #   - name: GitHub
-  #     url: https://github.com/The-alpha-male
 
   social:
     - name: medium
@@ -127,25 +120,3 @@ menu:
       name: Projects
       url: /projects/
       weight: 2
-    # - identifier: infographics
-    #   name: Infographics
-    #   url: /infographics/
-    #   weight: 4
-    #- identifier: tags
-    #  name: tags
-    #  url: /tags/
-    #  weight: 4
-
-    #- identifier: example
-    #  name: example.org
-    #  url: https://example.org
-    #  weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
