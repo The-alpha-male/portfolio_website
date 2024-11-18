@@ -22,3 +22,4 @@ My robust foundation in both theoretical concepts and practical applications equ
 You can also connect with me at the following social platforms:
 - [**Twitter**](https://twitter.com/ronnymunene4)
 - [**LinkedIn**](https://www.linkedin.com/in/ronny-munene/)
+- [**Medium**](https://medium.com/@ronnymunene360/)
