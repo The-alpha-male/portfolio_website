@@ -9,7 +9,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -67,7 +66,7 @@ params:
   social:
     - name: medium
       url: "https://medium.com/@ronymunene360"
-    - name: twitter
+    - name: X
       url: "https://twitter.com/ronnymunene4"
     - name: linkedin
       url: "https://www.linkedin.com/in/ronny-munene/"
@@ -96,8 +95,7 @@ params:
     Text: "" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # for search
-  # https://fusejs.io/api/options.html
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
