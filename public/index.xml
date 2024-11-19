@@ -9,7 +9,7 @@
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -21,14 +21,6 @@
       <description>&lt;h1 id=&#34;preview&#34;&gt;Preview&lt;/h1&gt;
 &lt;h2 id=&#34;unraveling-the-power-of-data-data-101&#34;&gt;Unraveling the Power of Data. (Data 101)&lt;/h2&gt;
 &lt;p&gt;Data science is an interdisciplinary field that transforms raw data into actionable insights, playing a crucial role in informed decision-making, predictive analytics, and enhancing customer understanding across various industries. It encompasses diverse career paths, including Data Analyst, Data Scientist, and Machine Learning Engineer, requiring a blend of technical skills like programming in Python and SQL, as well as soft skills such as critical thinking and effective communication.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hello World! I’m Ronny Munene, a dedicated software engineer with a profound passion for data science and computer science, committed to designing cutting-edge systems and software. As an enthusiastic developer and data science advocate, I thrive on leveraging technology to tackle contemporary challenges, with a vision of shaping a brighter future.&lt;/p&gt;
-&lt;p&gt;My robust foundation in both theoretical concepts and practical applications equips me with a unique skill set, enabling me to approach complex problems from diverse angles and develop innovative solutions. I am excited to contribute my expertise to impactful projects that drive progress and transformation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Infographics</title>
@@ -52,6 +44,14 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>//localhost:1313/page/</guid>
       <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello World! I’m Ronny Munene, a dedicated software engineer with a profound passion for data science and computer science, committed to designing cutting-edge systems and software. As an enthusiastic developer and data science advocate, I thrive on leveraging technology to tackle contemporary challenges, with a vision of shaping a brighter future.&lt;/p&gt;
+&lt;p&gt;My robust foundation in both theoretical concepts and practical applications equips me with a unique skill set, enabling me to approach complex problems from diverse angles and develop innovative solutions. I am excited to contribute my expertise to impactful projects that drive progress and transformation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CodeHatari Blogging Hub</title>
