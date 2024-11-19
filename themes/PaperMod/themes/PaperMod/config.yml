@@ -76,8 +76,8 @@ params:
     Content: Welcome to my blog
 
   .Site.Params.Social:
-    - name: twitter
-      url: "https://twitter.com/"
+    - name: X
+      url: "https://x.com/"
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
@@ -125,12 +125,3 @@ menu:
       name: example.org
       url: https://example.org
       weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
