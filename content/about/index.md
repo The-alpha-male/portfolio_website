@@ -6,7 +6,7 @@ category:
 summary:
 description: 
 cover:
-  image:
+  image: "images/profile-pic.png"
   alt:
   caption: 
   relative: true
