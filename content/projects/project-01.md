@@ -1,7 +1,7 @@
 ---
-title: "Solubility_Predictor using Machine Learning"
+title: "Solubility Predictor using Machine Learning"
 slug: Machine Learning
-category: projects
+category: software-engineering
 summary:
 description:
 cover:

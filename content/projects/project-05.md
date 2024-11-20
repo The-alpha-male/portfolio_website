@@ -1,5 +1,5 @@
 ---
-title: "Starlink_customer_sentiment_analysis"
+title: "Starlink customer sentiment analysis"
 slug: Machine Learning
 category: projects
 summary:

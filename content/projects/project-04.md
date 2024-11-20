@@ -5,7 +5,7 @@ category: projects
 summary:
 description:
 cover:
-  image: "images/carbon.png" 
+  image: 
   alt: "CodeHatari Blogging Hub"
   caption:
   relative: true

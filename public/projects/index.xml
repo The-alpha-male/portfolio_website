@@ -34,7 +34,7 @@
 &lt;p&gt;Integrated &lt;code&gt;NewsAPI&lt;/code&gt; into the blog pages to provide users with the latest news articles, enriching the blog content and ensuring up-to-date information is available.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Solubility_Predictor using Machine Learning</title>
+      <title>Solubility Predictor using Machine Learning</title>
       <link>//localhost:1313/projects/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/machine-learning/</guid>
@@ -45,7 +45,7 @@
 &lt;p&gt;Data Analysis: I meticulously prepared the dataset by separating the target variable (logS, which represents solubility) from the features (molecular descriptors). I then split the data into training and testing sets to ensure unbiased model evaluation.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Starlink_customer_sentiment_analysis</title>
+      <title>Starlink customer sentiment analysis</title>
       <link>//localhost:1313/projects/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/machine-learning/</guid>
