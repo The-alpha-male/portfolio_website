@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/blogs/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/unraveling-the-power-of-datadata-101/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/blogs/unraveling-the-power-of-datadata-101/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/infographics/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/infographics/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/unveiling-the-digital-symphony/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/blogs/unveiling-the-digital-symphony/</loc>
     <lastmod>2022-04-03T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/first/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/page/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/software-engineering/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/projects/software-engineering/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/machine-learning/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/projects/machine-learning/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/machine-learning/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/projects/machine-learning/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/data-science/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/projects/data-science/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/data-science/</loc>
+    <loc>https://the-alpha-male.github.io/portfolio_website/projects/data-science/</loc>
   </url>
 </urlset>

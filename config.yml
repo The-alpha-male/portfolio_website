@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//chanin.tech/"
+baseURL: "https://the-alpha-male.github.io/portfolio_website/"
 title: Ronny Munene
 pagination.pageSize: 5
 theme: PaperMod
@@ -8,7 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
+canonifyURLs: true
 
 minify:
   disableXML: true
@@ -36,6 +36,8 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  canonifyURLS : true
+
 
   label:
     text: "Ronny Munene"

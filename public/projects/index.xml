@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ronny Munene</title>
-    <link>//localhost:1313/projects/</link>
+    <link>https://the-alpha-male.github.io/portfolio_website/projects/</link>
     <description>Recent content in Projects on Ronny Munene</description>
     <image>
       <title>Ronny Munene</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://the-alpha-male.github.io/portfolio_website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://the-alpha-male.github.io/portfolio_website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://the-alpha-male.github.io/portfolio_website/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CodeHatari Blogging Hub</title>
-      <link>//localhost:1313/projects/software-engineering/</link>
+      <link>https://the-alpha-male.github.io/portfolio_website/projects/software-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/software-engineering/</guid>
+      <guid>https://the-alpha-male.github.io/portfolio_website/projects/software-engineering/</guid>
       <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
 &lt;p&gt;CodeHatari Blogging Hub is a platform designed to help developers share their knowledge, tutorials, and tips through blogging. Features user authentication and a responsive design. Integrates NewsAPI to provide users with the latest news articles.&lt;/p&gt;
 &lt;h1 id=&#34;technology-and-architecture&#34;&gt;Technology and Architecture&lt;/h1&gt;
@@ -35,9 +35,9 @@
     </item>
     <item>
       <title>Solubility Predictor using Machine Learning</title>
-      <link>//localhost:1313/projects/machine-learning/</link>
+      <link>https://the-alpha-male.github.io/portfolio_website/projects/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/machine-learning/</guid>
+      <guid>https://the-alpha-male.github.io/portfolio_website/projects/machine-learning/</guid>
       <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
 &lt;p&gt;This project delves into the realm of cheminformatics to predict the aqueous solubility of chemical compounds using machine learning techniques. By leveraging a comprehensive dataset containing molecular descriptors from &lt;a href=&#34;&#39;https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv&#39;&#34;&gt;Delaney&amp;rsquo;s solubility dataset&lt;/a&gt;, I explored key molecular properties like molecular weight, LogP, and the number of rotatable bonds, transforming raw chemical data into actionable predictive models.&lt;/p&gt;
 &lt;ul&gt;
@@ -46,9 +46,9 @@
     </item>
     <item>
       <title>Starlink customer sentiment analysis</title>
-      <link>//localhost:1313/projects/machine-learning/</link>
+      <link>https://the-alpha-male.github.io/portfolio_website/projects/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/machine-learning/</guid>
+      <guid>https://the-alpha-male.github.io/portfolio_website/projects/machine-learning/</guid>
       <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
 &lt;p&gt;In this project, I performed sentiment analysis on customer reviews of Starlink products sourced from &lt;a href=&#34;https://www.jumia.co.ke/catalog/productratingsreviews/sku/BR269EA1PRKULNAFAMZ/&#34;&gt;Jumia&lt;/a&gt;, an e-commerce platform in Kenya. By extracting, cleaning, and analyzing the reviews using Python, I transformed raw customer feedback into actionable insights, highlighting key strengths and areas for improvement. The analysis involved natural language processing (NLP) techniques, data visualization, and word cloud generation to summarize customer sentiment.&lt;/p&gt;
 &lt;h2 id=&#34;tools-and-libraries-used&#34;&gt;Tools and Libraries Used:&lt;/h2&gt;
@@ -60,9 +60,9 @@ I scraped reviews from multiple pages of Jumia using &lt;code&gt;BeautifulSoup&l
     </item>
     <item>
       <title>World Carbon Emission Dashboard using Panel</title>
-      <link>//localhost:1313/projects/data-science/</link>
+      <link>https://the-alpha-male.github.io/portfolio_website/projects/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/data-science/</guid>
+      <guid>https://the-alpha-male.github.io/portfolio_website/projects/data-science/</guid>
       <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
 &lt;p&gt;This project focuses on developing an interactive CO2 Emission Dashboard using Python and the &lt;code&gt;Panel&lt;/code&gt; library. It allows users to explore global CO2 emissions from 1750 to 2021, segmented by continent and specific sources like coal, oil, and gas. The dashboard includes visualizations like &lt;code&gt;line charts&lt;/code&gt;, &lt;code&gt;scatterplots&lt;/code&gt;, and &lt;code&gt;bar charts&lt;/code&gt; , along with interactive widgets for real-time data exploration.&lt;/p&gt;
 &lt;ul&gt;
@@ -71,9 +71,9 @@ I scraped reviews from multiple pages of Jumia using &lt;code&gt;BeautifulSoup&l
     </item>
     <item>
       <title>YouTube Global Data Analysis</title>
-      <link>//localhost:1313/projects/data-science/</link>
+      <link>https://the-alpha-male.github.io/portfolio_website/projects/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/data-science/</guid>
+      <guid>https://the-alpha-male.github.io/portfolio_website/projects/data-science/</guid>
       <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
 &lt;p&gt;In this project, I dove deep into YouTube&amp;rsquo;s vast global dataset to uncover trends and insights that shape the platform’s success across continents. By leveraging a comprehensive dataset from &lt;code&gt;Kaggle&lt;/code&gt; , I explored key metrics like uploads, views, subscriber counts, and estimated earnings, transforming raw data into actionable insights.&lt;/p&gt;
 &lt;ul&gt;
